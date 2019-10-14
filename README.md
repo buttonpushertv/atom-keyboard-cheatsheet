@@ -9,7 +9,7 @@ Currently this is tailored for the Windows version of Atom. Soon we will have OS
 
 To make use of this CheatSheet, download any 1 of these versions:
 
-###Windows
+### Windows
 * Adobe Illustrator (CC2019)
   - [LIGHT Version](https://github.com/buttonpushertv/atom-keyboard-cheatsheet/blob/master/CHEATSHEET-WINDOWS/ATOM-Default%20Keyboard%20Layout%20Template.ai)
   - [DARK Version](https://github.com/buttonpushertv/atom-keyboard-cheatsheet/blob/master/CHEATSHEET-WINDOWS/ATOM-Default%20Keyboard%20Layout%20Template-DARK.ai)
@@ -19,6 +19,10 @@ To make use of this CheatSheet, download any 1 of these versions:
 * PDF
   - [LIGHT Version](https://github.com/buttonpushertv/atom-keyboard-cheatsheet/blob/master/CHEATSHEET-WINDOWS/ATOM-Default%20Keyboard%20Layout%20Template.pdf)
   - [DARK Version](https://github.com/buttonpushertv/atom-keyboard-cheatsheet/blob/master/CHEATSHEET-WINDOWS/ATOM-Default%20Keyboard%20Layout%20Template-DARK.pdf)
+
+And if you wanted it, here's a text file (just copied out of the Keybinds Settings window - it is tab-delimted & sorted by function area then keybind text):
+
+
 
 Please submit any suggestions, additions of corrections as Issues and I'll try to incorporate them. This is just a little side thing I do, so I can't promise rapid turn-around on revisions, but I do use this myself, on the regular, so I'm open to what others think should be in there.
 
