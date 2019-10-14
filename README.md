@@ -24,7 +24,9 @@ And if you wanted it, here's a text file (just copied out of the Keybinds Settin
 
 [Tabbed Text Version](https://github.com/buttonpushertv/atom-keyboard-cheatsheet/blob/master/atom-default-keybinds.txt)
 
-Please submit any suggestions, additions of corrections as Issues and I'll try to incorporate them. This is just a little side thing I do, so I can't promise rapid turn-around on revisions, but I do use this myself, on the regular, so I'm open to what others think should be in there.
+Please submit any suggestions, additions, or corrections as Issues here on Github and I'll try to incorporate them. This is just a little side thing I'm doing, so I can't promise rapid turn-around on revisions, but I do use this myself regularly, so I'm open to what others think should be in there or tweaked.
+
+Thanks & Enjoy!
 
 ![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC-BY-SA-4.0")
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
