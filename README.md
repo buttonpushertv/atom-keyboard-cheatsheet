@@ -3,7 +3,7 @@ A printable, graphical cheatsheet of Atom's Keyboard Commands(http://atom.io). S
 
 The CheatSheet is created in Adobe Illustrator. It is designed to be printed on 11x17 sized paper or to be used on-screen. It covers the default set of keyboard commands that are installed initially with Atom. There are Light & Dark mode versions.
 
-![Atom CheatSheet Sample](https://github.com/buttonpushertv/atom-keyboard-cheatsheet/blob/master/IMAGES/atom-cheatsheet-sample-small.png)
+![Atom CheatSheet Sample](https://github.com/buttonpushertv/atom-keyboard-cheatsheet/blob/master/IMAGES/atom-cheatsheet-sample.png)
 
 Currently this is tailored for the Windows version of Atom. Soon we will have OSX & Linux versions (although, for the most part, under OSX, where ever you see "Control," just replace it with "Command" and it should work.)
 
